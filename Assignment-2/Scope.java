@@ -10,5 +10,9 @@ public class Scope {
         }
         //compilation problem since b is not visible
         System.out.println("Outside If Block: a="+a+"b="+b);
+    /*Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	b cannot be resolved to a variable
+
+	at Assignment_Two/Scope_operators.Statement.main(Statement.java:12)*/
     }
 }
