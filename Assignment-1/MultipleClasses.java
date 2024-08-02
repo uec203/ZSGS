@@ -1,5 +1,5 @@
 /* 3.Create multiple classes in single file and compile and explore how many .class files are generated. */
-public class MultipleClasses {
+class MultipleClasses {
     
 }
 class Demo1{
