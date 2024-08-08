@@ -1,7 +1,6 @@
 import java.util.Scanner;
-
 enum Day {
-    SUNDAY, MONDAY, TUESDAY, WEDNESDAY,THURSDAY, FRIDAY, SATURDAY 
+    SUNDAY, MONDAY, TUESDAY, WEDNESDAY,THURSDAY, FRIDAY, SATURDAY;
 }
 public class WeekDay {
     public static void main(String[] args) {
